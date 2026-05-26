@@ -18,12 +18,6 @@ A starter area for practicing core SQL concepts, including:
 - Grouping results
 - Sorting query output
 
-### Superstore Sales Analysis
-
-Folder: `superstore-sales-analysis`
-
-A beginner sales analysis project using a Superstore-style dataset. The current query analyzes total sales by product category.
-
 ## Skills Practiced
 
 - Writing readable SQL queries
